@@ -63,3 +63,64 @@ A wireframe might show a date picker in the booking form that, when implemented,
 ---
 
 Together, these elements form the foundation of a wireframe, enabling teams to visualize **how the system will work**, not just how it will look. Understanding and applying them ensures intuitive and goal-driven user interface designs.
+---
+
+## 🧱 Types of Wireframes
+
+Wireframes are commonly categorized by their level of detail and visual fidelity. The two most widely used types are **low-fidelity** and **high-fidelity** wireframes. Each serves a unique purpose at different stages of the product design process.
+
+### 📝 Low-Fidelity Wireframes
+
+**Definition:**  
+Low-fidelity wireframes are basic, simplified representations of a user interface. They focus on layout and structure without detailed styling or interactive behaviors.
+
+**Characteristics:**
+- Black-and-white or grayscale
+- Uses placeholders (e.g., boxes for images, “X” marks for buttons)
+- Contains minimal text
+- Often sketched or created using basic tools
+
+**When to Use:**
+- Early-stage brainstorming and ideation
+- Rapid prototyping and iteration
+- Getting early feedback from stakeholders
+
+**Example Use Case:**  
+Sketching out a mobile app’s main screens on paper before choosing a design direction.
+
+---
+
+### 🖼️ High-Fidelity Wireframes
+
+**Definition:**  
+High-fidelity wireframes are more detailed, closely resembling the final product. They include real content, typography, visual hierarchy, spacing, and sometimes interactions.
+
+**Characteristics:**
+- Pixel-perfect alignment and spacing
+- Realistic text and images
+- Detailed UI elements like modals, tooltips, sliders
+- Created using digital tools like Figma, Adobe XD, or Sketch
+
+**When to Use:**
+- Finalizing design decisions
+- Developer handoff and stakeholder approvals
+- Usability testing and early prototyping
+
+**Example Use Case:**  
+A web dashboard wireframe with real user data, dropdown menus, and styled charts, ready for handover to developers.
+
+---
+
+## 🧾 Wireframe Type Explanation (Based on Example)
+
+> _*Note: Please replace this section with a real image and caption once you've added a wireframe image or screenshot in your repository.*_
+
+**What type of wireframe is this?**  
+The wireframe presented below is a **Low-Fidelity Wireframe**.
+
+**Reasoning:**
+- The layout is grayscale and simplified
+- There are placeholder boxes and minimal detail
+- It emphasizes structure and flow over styling
+
+![Example Wireframe](./your-wireframe-image.png)
