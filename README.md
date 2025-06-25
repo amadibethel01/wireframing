@@ -169,3 +169,11 @@ Figma enables designers and non-designers alike to work together in real time, m
 ---
 
 Each tool has its strengths, but for this project and most collaborative design workflows, **Figma is the go-to choice** for building user-centered prototypes efficiently.
+4. Benefits of Wireframing in Software Development
+mandatory
+Add a new section discussing the benefits of wireframing from a software development perspective.
+Explain how wireframes guide the design process and facilitate communication among team members, using examples from the content provided.
+Repo:
+
+GitHub repository: wireframing
+File: README.md
