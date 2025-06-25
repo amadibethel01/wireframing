@@ -124,3 +124,48 @@ The wireframe presented below is a **Low-Fidelity Wireframe**.
 - It emphasizes structure and flow over styling
 
 ![Example Wireframe](./your-wireframe-image.png)
+---
+
+## 🛠️ Wireframing Tools
+
+Wireframing tools play a crucial role in transforming ideas into structured layouts that guide the development of user interfaces. These tools help designers quickly create, test, and iterate on UI designs before the development phase begins.
+
+Here are some of the most popular wireframing tools:
+
+### 🔹 1. Figma
+- **Type**: Cloud-based collaborative design tool
+- **Key Features**:
+  - Real-time collaboration with team members
+  - Intuitive drag-and-drop interface
+  - Component and design system support
+  - Cross-platform accessibility (browser-based)
+  - Prototyping, commenting, and version control in one space
+
+**Why Figma is Great for Wireframing:**
+Figma enables designers and non-designers alike to work together in real time, making it ideal for collaborative design sessions. Its versatility allows users to create both **low-fidelity** wireframes and **high-fidelity** interactive prototypes, all from within the same environment. Figma also supports plugins and templates that streamline the wireframing process.
+
+---
+
+### 🔹 2. Balsamiq
+- Known for low-fidelity, sketch-like wireframes
+- Simple and fast for brainstorming UI ideas
+- Limited styling helps focus on structure
+
+### 🔹 3. Adobe XD
+- Powerful tool for high-fidelity UI and UX design
+- Good integration with Adobe Creative Suite
+- Supports prototyping and animations
+
+### 🔹 4. Sketch
+- Mac-only tool popular in design teams
+- Excellent for high-fidelity wireframes and UI kits
+- Strong plugin ecosystem
+
+### 🔹 5. Lucidchart / Draw.io
+- Best for simple, flow-based wireframes or diagrams
+- Easy integration into documentation
+- Ideal for non-designers doing functional or structural planning
+
+---
+
+Each tool has its strengths, but for this project and most collaborative design workflows, **Figma is the go-to choice** for building user-centered prototypes efficiently.
