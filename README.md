@@ -177,3 +177,29 @@ Repo:
 
 GitHub repository: wireframing
 File: README.md
+
+---
+
+## 🚀 Wireframing in Practice
+
+### 📚 Real-World Scenario: Booking Platform Redesign
+
+**Context:**  
+A travel tech startup was developing an online hotel booking platform. Early feedback from stakeholders indicated that users were confused by the booking flow, especially around selecting dates and confirming reservations. Instead of moving into development immediately, the product team decided to wireframe the booking journey.
+
+### 🧩 Problem Identified via Wireframing:
+While creating low-fidelity wireframes of the booking process, the team discovered:
+- The date selection calendar was buried under a modal and difficult to find.
+- The “Book Now” button was inconsistently placed across different pages.
+- Users couldn't clearly distinguish between available and unavailable rooms due to weak visual hierarchy.
+
+### 🛠️ Resolution:
+- The wireframes were revised to feature a persistent, clearly visible date picker.
+- A consistent placement and visual styling for the “Book Now” button was introduced.
+- Color-coded room availability indicators were added to improve clarity.
+
+These changes were later translated into high-fidelity wireframes and shared for usability testing. Early user feedback showed a 60% improvement in task success rate during booking simulations.
+
+### ✅ Impact on the Final Product:
+- Reduced development rework by catching design flaws early.
+- Increased user satis
